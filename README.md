@@ -1,4 +1,4 @@
-## You can check the live version running [Here](https://romantic-galileo-17f96a.netlify.app/)
+## You can check the live version running [Here](https://pbruny-breaking-bad-explorer.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and made to play with the [Breaking Bad API](https://breakingbadapi.com/).
 
